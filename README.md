@@ -4,5 +4,5 @@ AWS CloudWatchからPythonでLogを取得
 ## Usage
 
 ```
-python OrderNowReport.py --from_date YYYY-MM-DD --to_date YYYY-MM-DD --group_name /aws/lambda/xxxx --profile default
+python get_cloudwatch_logs.py --from_date YYYY-MM-DD --to_date YYYY-MM-DD --group_name /aws/lambda/xxxx --profile default
 ```
