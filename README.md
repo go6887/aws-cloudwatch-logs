@@ -1,2 +1,2 @@
-# aws_gloudwatch_logs
+# aws-cloudwatch-logs
 AWS CloudWatchからPythonでLogを取得
